@@ -1,0 +1,49 @@
+{
+    "menu": [
+        {
+            "name": "masterfiles",
+            "sub": [
+                {
+                    "name": "category"
+                },
+                {
+                    "name": "items"
+                },
+                {
+                    "name": "salesman"
+                },
+                {
+                    "name": "supplier"
+                },
+                {
+                    "name": "customer"
+                },
+                {
+                    "name": "location"
+                }
+            ]
+        },
+        {
+            "name": "transactions",
+            "sub": [
+                {
+                    "name": "accounts payable"
+                },
+                {
+                    "name": "check"
+                },
+                {
+                    "name": "invoice"
+                }
+            ]
+        },
+        {
+            "name": "reports",
+            "sub": []
+        },
+        {
+            "name": "utilities",
+            "sub": []
+        }
+    ]
+}
